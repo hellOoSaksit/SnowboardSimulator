@@ -48,6 +48,15 @@
 ![image](https://github.com/user-attachments/assets/8033add6-b73b-4e3c-a09b-353e393a851c)
 
 ## Interface Design (UI Overview)
+![image](https://github.com/user-attachments/assets/d1909b04-cd0e-4fcf-b4d3-28b16eb791ad)
+
+![image](https://github.com/user-attachments/assets/74e73ec8-cc33-4f9e-b3be-f24c8d93e34d)
+
+![image](https://github.com/user-attachments/assets/fbedf959-e7a1-45d6-9f64-8df5a667b748)
+
+![image](https://github.com/user-attachments/assets/fc200731-d1ad-4c63-9e9a-be57deeefa07)
+
+
 
 ## System Architecture Diagram
 ![Frame 1 (1)](https://github.com/user-attachments/assets/20aaafe0-0a38-4dd6-8330-2eeba83157d9)
