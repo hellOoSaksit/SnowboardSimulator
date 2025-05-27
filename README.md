@@ -17,8 +17,22 @@
 > โปรเจกต์นี้แสดงถึงความสามารถของผมในการทำงานแบบข้ามสายงาน (Cross-functional) โดยเฉพาะอย่างยิ่งในบทบาท **Business Analyst** ที่รับผิดชอบตั้งแต่การวิเคราะห์ปัญหา ไปจนถึงการแปลงความต้องการของผู้ใช้เป็นฟีเจอร์จริง
 
 ## Functional Requirements
-![image](https://github.com/user-attachments/assets/01bfcff9-0971-4d90-8f56-2b8ea0a937f8)
+![image](https://github.com/user-attachments/assets/95749fd7-2ea1-44ab-a175-601f3776d5b2)
 
+## Non-Functional Requirements
+![image](https://github.com/user-attachments/assets/26a9e1b5-2e92-4eaf-8328-bfe16445b36e)
+
+## Use Case Diagram
+
+## Use Case Table
+![image](https://github.com/user-attachments/assets/8033add6-b73b-4e3c-a09b-353e393a851c)
+
+## Interface Design (UI Overview)
+
+## System Architecture Diagram
+
+## Requirement Traceability Matrix (RTM)
+![image](https://github.com/user-attachments/assets/461920e1-5a50-4114-8ce2-b034d39061d8)
 
 ---
 
