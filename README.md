@@ -55,14 +55,6 @@
 ## Requirement Traceability Matrix (RTM)
 ![image](https://github.com/user-attachments/assets/461920e1-5a50-4114-8ce2-b034d39061d8)
 
----
-
-## ⚠️ ความเสี่ยงและข้อจำกัด (Risks & Constraints)
-* อุปกรณ์ต้นแบบอาจทำงานผิดพลาดหากเซ็นเซอร์ระยะเสียหาย
-* ต้องสอบเทียบเซ็นเซอร์และมอเตอร์เป็นระยะเพื่อความแม่นยำ
-* ระบบต้องใช้ไฟฟ้าต่อเนื่อง และไม่เหมาะกับสภาพแวดล้อมเปียกชื้น
-* รองรับเฉพาะผู้เล่น 1 คนต่อรอบ
-
 ## BPNM 2.0
 ![DOF Ski BPNM2 0 drawio](https://github.com/user-attachments/assets/073e6ce5-8855-4c0f-a459-3219b2eb83f1)
 
