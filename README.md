@@ -1,4 +1,4 @@
-# *** โปรเจคนี้เป็นโปรเจคที่นำไปสร้างโปรดักของจริง
+![image](https://github.com/user-attachments/assets/f172ccb3-b375-4157-8555-3baf7ca7837d)# *** โปรเจคนี้เป็นโปรเจคที่นำไปสร้างโปรดักของจริง
 
 # เครื่องจำลองการเล่นสโนว์บอร์ด (Snowboard Simulator)
 
@@ -87,6 +87,11 @@
 - สร้างหน้าหลัก (Home), หน้าตั้งค่า (Settings), และหน้าปรับความเร็ว (Speed)
 - ติดตั้งจอบนฐานสูง 1 เมตร เพื่อรองรับการใช้งานขณะยืนฝึก
 - พัฒนา flow ให้ **เหมาะกับผู้เริ่มต้น** และมีปุ่มหยุดฉุกเฉิน (Emergency Stop)
+
+![image](https://github.com/user-attachments/assets/df3c4234-3b5a-457a-ac43-9e982af4ae7d)
+![image](https://github.com/user-attachments/assets/a114bb93-1eb9-4865-b264-e76cf3ffd897)
+![image](https://github.com/user-attachments/assets/9be52944-0a2e-402d-be95-0ff449ccee8a)
+
 
 ---
 
