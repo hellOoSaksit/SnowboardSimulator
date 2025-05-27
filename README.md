@@ -22,7 +22,9 @@
 ## Non-Functional Requirements
 ![image](https://github.com/user-attachments/assets/26a9e1b5-2e92-4eaf-8328-bfe16445b36e)
 
-## Use Case Diagram
+## Use Case Diagram\
+
+![UML Ski drawio](https://github.com/user-attachments/assets/f7c15863-2f9b-4af6-a143-c3b794893ddc)
 
 ## Use Case Table
 ![image](https://github.com/user-attachments/assets/8033add6-b73b-4e3c-a09b-353e393a851c)
