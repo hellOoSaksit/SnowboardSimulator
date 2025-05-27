@@ -50,6 +50,7 @@
 ## Interface Design (UI Overview)
 
 ## System Architecture Diagram
+![Frame 1 (1)](https://github.com/user-attachments/assets/20aaafe0-0a38-4dd6-8330-2eeba83157d9)
 
 ## Requirement Traceability Matrix (RTM)
 ![image](https://github.com/user-attachments/assets/461920e1-5a50-4114-8ce2-b034d39061d8)
