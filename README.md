@@ -81,6 +81,8 @@
 ## BPNM 2.0
 ![DOF Ski BPNM2 0 drawio](https://github.com/user-attachments/assets/073e6ce5-8855-4c0f-a459-3219b2eb83f1)
 
+## Lean Canvas : Snowboard Simulator
+![01 Problem](https://github.com/user-attachments/assets/14e47f23-52f9-42b0-b8b8-b0e371f11e64)
 
 ## 🧪 UX/UI Designer
 - ออกแบบหน้าจอใช้งาน (Touchscreen Interface) ด้วยแนวคิด **เรียบง่ายและปลอดภัย**
